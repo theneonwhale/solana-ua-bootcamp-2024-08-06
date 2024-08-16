@@ -1,0 +1,10 @@
+[package]
+name = "solana-rust-training"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dotenv = "0.15"
+solana-sdk = "2.0.5"
+solana-client = "2.0.5"
+hex = "0.4.3"
